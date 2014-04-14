@@ -1,0 +1,4 @@
+[submodule "NSSA"]
+	path = NSSA
+	url = git@github.com:Thynix/NSSA.git
+	branch = master
